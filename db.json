@@ -1,0 +1,17 @@
+{
+  "BMW M2": {
+    "A": "Giữ nguyên máy zin (Stock 3.0L I6 TT) + Up Full Turbo",
+    "S1": "Swap 6.2L V8 DSC (Racing V8) - Cực bốc nước đầu",
+    "S2": "Swap Racing V12 (Lên 2 cầu AWD)"
+  },
+  "NISSAN GTR": {
+    "A": "Giữ nguyên máy zin (Stock 3.8L V6 TT)",
+    "S1": "Giữ nguyên máy zin + Tháo giảm trọng lượng tối đa",
+    "S2": "Swap 7.4L V8 TT (Máy Funco) hoặc Racing V12"
+  },
+  "HONDA CIVIC": {
+    "B": "Giữ nguyên máy zin + Nâng cấp lốp vỉa",
+    "A": "Swap 2.0L I4 VVT (Máy Honda S2000)",
+    "S1": "Swap 1.6L I4 Turbo Rally (Chuyển sang AWD)"
+  }
+}
