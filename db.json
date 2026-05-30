@@ -1,17 +1,149 @@
 {
-  "BMW M2": {
-    "A": "Giữ nguyên máy zin (Stock 3.0L I6 TT) + Up Full Turbo",
-    "S1": "Swap 6.2L V8 DSC (Racing V8) - Cực bốc nước đầu",
-    "S2": "Swap Racing V12 (Lên 2 cầu AWD)"
+  "A CLASS ALLROUNDER WITH GREAT HANDLING | 2023 HONDA CIVIC TYPE R": {
+    "UNKNOWN_CLASS": "A Class Allrounder with great handling | 2023 Honda Civic Type R | by | Hades4u | ↑29 | ↓5 | Total Cost | 70,850 | CR | A | 700 | RARE"
   },
-  "NISSAN GTR": {
-    "A": "Giữ nguyên máy zin (Stock 3.8L V6 TT)",
-    "S1": "Giữ nguyên máy zin + Tháo giảm trọng lượng tối đa",
-    "S2": "Swap 7.4L V8 TT (Máy Funco) hoặc Racing V12"
+  "GREAT S1 ALL AROUND | 2020 AUDI R8 V10 PERFORMANCE": {
+    "UNKNOWN_CLASS": "Great S1 All Around | 2020 Audi R8 V10 performance | by | Hades4u | ↑22 | ↓4 | Total Cost | 332,150 | CR | S1 | 800 | RARE"
   },
-  "HONDA CIVIC": {
-    "B": "Giữ nguyên máy zin + Nâng cấp lốp vỉa",
-    "A": "Swap 2.0L I4 VVT (Máy Honda S2000)",
-    "S1": "Swap 1.6L I4 Turbo Rally (Chuyển sang AWD)"
+  "S2 DIRT, GREAT GRIP | 2005 PORSCHE CAYMAN GT3 WTAC": {
+    "UNKNOWN_CLASS": "S2 Dirt, Great Grip | 2005 Porsche Cayman GT3 WTAC | by | Hades4u | ↑15 | ↓2 | Total Cost | 216,850 | CR | S2 | 900 | EPIC"
+  },
+  "S1 DIRT RACING BOSS | 1985 FORD RS200 EVOLUTION": {
+    "UNKNOWN_CLASS": "S1 Dirt Racing Boss | 1985 Ford RS200 Evolution | by | Hades4u | ↑10 | ↓0 | Total Cost | 523,300 | CR | S1 | 800 | EPIC"
+  },
+  "GREAT STARTER FOR DIRT RACING | 1994 TOYOTA CELICA GT-FOUR ST205": {
+    "UNKNOWN_CLASS": "Great Starter for Dirt Racing | 1994 Toyota Celica GT-Four ST205 | by | Hades4u | ↑11 | ↓2 | Total Cost | 54,050 | CR | B | 600 | COMMON"
+  },
+  "ROAD RACING DREAM | 1989 NISSAN SILVIA K'S": {
+    "UNKNOWN_CLASS": "Road Racing Dream | 1989 Nissan Silvia K's | by | Hades4u | ↑13 | ↓5 | Total Cost | 54,600 | CR | B | 600 | COMMON"
+  },
+  "ROAD/ALL AROUND, GREAT A CLASS | 2017 FORD FOCUS RS": {
+    "UNKNOWN_CLASS": "Road/All Around, Great A Class | 2017 Ford Focus RS | by | Hades4u | ↑8 | ↓1 | Total Cost | 112,400 | CR | A | 700 | EPIC"
+  },
+  "DIRT/CROSS ALWAYS RELIABLE | 2004 SUBARU IMPREZA WRX STI": {
+    "UNKNOWN_CLASS": "Dirt/Cross Always Reliable | 2004 Subaru IMPREZA WRX STI | by | Hades4u | ↑10 | ↓4 | Total Cost | 52,700 | CR | B | 600 | COMMON"
+  },
+  "AMAZING S2 ROAD RACING BEAST | 1990 NISSAN #12 SKYLINE GT-R (BNR32 GR": {
+    "UNKNOWN_CLASS": "Amazing S2 Road Racing Beast | 1990 Nissan #12 Skyline GT-R (BNR32 Gr.A) JTC | by | Hades4u | ↑5 | ↓0 | Total Cost | 1,515,500 | CR | S2 | 900 | LEGENDARY"
+  },
+  "STRONG S1 ROAD RACER | 2021 BMW M4 COMPETITION COUPÉ 'WELCOME PACK'": {
+    "UNKNOWN_CLASS": "Strong S1 Road Racer | 2021 BMW M4 Competition Coupé 'Welcome Pack' | by | Hades4u | ↑5 | ↓0 | Total Cost | 244,450 | CR | S1 | 800 | LEGENDARY"
+  },
+  "SOLID DIRT/CROSS COUNTRY | 1966 FORD #2 GT40 MK II": {
+    "UNKNOWN_CLASS": "Solid Dirt/Cross Country | 1966 Ford #2 GT40 Mk II | by | Hades4u | ↑5 | ↓0 | Total Cost | 13,241,500 | CR | A | 700 | LEGENDARY"
+  },
+  "ROAD | 8": {
+    "UNKNOWN_CLASS": "ROAD | 8.4L V10 | 55.2 SHIRAKAWA | 2024 Chevrolet Corvette E-Ray | by | Hades4u | ↑4 | ↓0 | Total Cost | 249,150 | CR | S1 | 800 | EPIC"
+  },
+  "RALLY/DIRT | 1991 HONDA BEAT": {
+    "UNKNOWN_CLASS": "Rally/Dirt | 1991 Honda Beat | by | Hades4u | ↑4 | ↓0 | Total Cost | 78,650 | CR | B | 600 | RARE"
+  },
+  "FUN DIRT/CROSS COUNTRY S2 | 1999 DODGE VIPER GTS ACR FORZA EDITION": {
+    "UNKNOWN_CLASS": "Fun Dirt/Cross Country S2 | 1999 Dodge Viper GTS ACR Forza Edition | by | Hades4u | ↑4 | ↓0 | Total Cost | 630,850 | CR | S2 | 900 | FORZA EDITION"
+  },
+  "A CLASS DOMINATION, DIRT/ALL AROUND | 1991 GMC SYCLONE": {
+    "UNKNOWN_CLASS": "A Class Domination, Dirt/All Around | 1991 GMC Syclone | by | Hades4u | ↑4 | ↓0 | Total Cost | 151,200 | CR | A | 700 | EPIC"
+  },
+  "B CLASS | 2022 TOYOTA GR86": {
+    "UNKNOWN_CLASS": "B Class | 2022 Toyota GR86 | by | taylors97 | ↑3 | ↓0 | Total Cost | 28,000 | CR | B | 600 | COMMON"
+  },
+  "GREAT ALL AROUND B CLASS | 1988 BMW M3": {
+    "UNKNOWN_CLASS": "Great All Around B Class | 1988 BMW M3 | by | Hades4u | ↑4 | ↓0 | Total Cost | 311,950 | CR | B | 600 | RARE"
+  },
+  "ROAD/STREET CLASSIC | 1987 FORD SIERRA COSWORTH RS500": {
+    "UNKNOWN_CLASS": "Road/Street Classic | 1987 Ford Sierra Cosworth RS500 | by | Hades4u | ↑4 | ↓1 | Total Cost | 98,500 | CR | B | 600 | BARN FIND"
+  },
+  "S1 DIRT/CROSS-COUNTRY BUILD | 2014 ALFA ROMEO 4C": {
+    "UNKNOWN_CLASS": "S1 Dirt/Cross-Country Build | 2014 Alfa Romeo 4C | by | Hades4u | ↑3 | ↓0 | Total Cost | 192,600 | CR | S1 | 800 | EPIC"
+  },
+  "S2 ROAD, GREAT STARTER | 2020 MERCEDES-AMG GT BLACK SERIES 'WELCOME PACK'": {
+    "UNKNOWN_CLASS": "S2 Road, Great Starter | 2020 Mercedes-AMG GT Black Series 'Welcome Pack' | by | Hades4u | ↑3 | ↓0 | Total Cost | 237,450 | CR | S2 | 900 | LEGENDARY"
+  },
+  "2016 ASTON MARTIN VULCAN": {
+    "UNKNOWN_CLASS": "2016 Aston Martin Vulcan | by | Hades4u | ↑5 | ↓2 | Total Cost | 2,333,250 | CR | S2 | 900 | LEGENDARY"
+  },
+  "DIRT/CROSS COUNTRY S1 AWD | 2017 FERRARI J50 PREORDER CAR": {
+    "UNKNOWN_CLASS": "Dirt/Cross Country S1 AWD | 2017 Ferrari J50 Preorder Car | by | Hades4u | ↑4 | ↓1 | Total Cost | 413,900 | CR | S1 | 800 | LEGENDARY"
+  },
+  "ONE OF THE BEST | 2005 HONDA NSX-R GT": {
+    "UNKNOWN_CLASS": "One of the best | 2005 Honda NSX-R GT | by | Hades4u | ↑8 | ↓5 | Total Cost | 669,950 | CR | A | 700 | BARN FIND"
+  },
+  "GREAT GRIP, GREAT SPEED | 1984 HONDA CITY E II": {
+    "UNKNOWN_CLASS": "Great Grip, Great Speed | 1984 Honda City E II | by | Hades4u | ↑4 | ↓1 | Total Cost | 66,300 | CR | C | 500 | EPIC"
+  },
+  "ROAD | ALLROUND | META | 54": {
+    "UNKNOWN_CLASS": "Road | Allround | Meta | 54.7 Shirakawa | Drift Diff | 2021 McLaren 620R | by | Hades4u | ↑3 | ↓0 | Total Cost | 260,000 | CR | S1 | 800 | EPIC"
+  },
+  "A700 | OFFROAD | FAST | WIDE-SHIFTING | UNDERSTEER | HIGH GRIP | 1970 GMC JIMMY": {
+    "A700": "A700 | Offroad | Fast | Wide-shifting | Understeer | High Grip | 1970 GMC Jimmy | by | ExRedux | ↑2 | ↓0 | Total Cost | 60,000 | CR | A | 700 | COMMON"
+  },
+  "GREAT A CLASS ALLROUNDER | 1982 PORSCHE 911 TURBO 3": {
+    "UNKNOWN_CLASS": "Great A Class Allrounder | 1982 Porsche 911 Turbo 3.3 | by | Hades4u | ↑3 | ↓0 | Total Cost | 296,250 | CR | A | 700"
+  },
+  "DIRT | CROSS COUNTRY | ALL AROUND | GREAT SPEED | GREAT GRIP | EASY | 2005 MITSUBISHI #1 SIERRA SIERRA ENTERPRISES LANCER EVOLUTION TIME ATTACK": {
+    "UNKNOWN_CLASS": "Dirt | Cross Country | All Around | Great Speed | Great Grip | Easy | 2005 Mitsubishi #1 Sierra Sierra Enterprises Lancer Evolution Time Attack | by | Hades4u | ↑2 | ↓0 | Total Cost | 112,800 | CR | S2 | 900 | BARN FIND"
+  },
+  "B CLASS RALLY | 2006 MITSUBISHI LANCER EVOLUTION IX MR": {
+    "UNKNOWN_CLASS": "B Class Rally | 2006 Mitsubishi Lancer Evolution IX MR | by | taylors97 | ↑1 | ↓0 | Total Cost | 250,000 | CR | B | 600 | EPIC"
+  },
+  "B CLASS ROAD RACE | 1977 PONTIAC FIREBIRD TRANS AM": {
+    "UNKNOWN_CLASS": "B Class Road Race | 1977 Pontiac Firebird Trans Am | by | taylors97 | ↑1 | ↓0 | Total Cost | 60,000 | CR | B | 600 | RARE"
+  },
+  "ROAD RACING META | 1971 NISSAN SKYLINE 2000GT-R": {
+    "UNKNOWN_CLASS": "Road Racing Meta | 1971 Nissan Skyline 2000GT-R | by | Hades4u | ↑4 | ↓2 | Total Cost | 256,700 | CR | A | 700"
+  },
+  "A700 | EASY | UNDERSTEER BIAS | HIGH TORQUE | GOOD ON ROADS | 1992 GMC TYPHOON": {
+    "A700": "A700 | Easy | Understeer Bias | High Torque | Good On Roads | 1992 GMC Typhoon | by | ExRedux | ↑1 | ↓0 | Total Cost | 119,500 | CR | A | 700 | EPIC"
+  },
+  "BUILD & TUNE | 2022 TOYOTA GR86 | ↑2 | ↓0 | TOTAL COST | 28,000 | CR | B | 600 | COMMON": {
+    "UNKNOWN_CLASS": "Build & Tune | 2022 Toyota GR86 | ↑2 | ↓0 | Total Cost | 28,000 | CR | B | 600 | COMMON"
+  },
+  "BUILD & TUNE | 1991 MAZDA #55 MAZDA 787B | ↑1 | ↓0 | TOTAL COST | 1,220,000 | CR | R | 998 | BARN FIND": {
+    "UNKNOWN_CLASS": "Build & Tune | 1991 Mazda #55 Mazda 787B | ↑1 | ↓0 | Total Cost | 1,220,000 | CR | R | 998 | BARN FIND"
+  },
+  "GREAT FOR TRAILBLAZERS, DANGER SIGNS, SPEED ZONES, SPEED TRAPS | 2015 ULTIMA EVOLUTION COUPE 1020": {
+    "UNKNOWN_CLASS": "Great for Trailblazers, Danger Signs, Speed Zones, Speed Traps | 2015 Ultima Evolution Coupe 1020 | by | Hades4u | ↑1 | ↓0 | Total Cost | 282,650 | CR | R | 993"
+  },
+  "ROAD | GREAT SPEED | SOLID GRIP | GREAT BRAKING | 2008 MAZDA FURAI": {
+    "UNKNOWN_CLASS": "Road | Great Speed | Solid Grip | GREAT BRAKING | 2008 Mazda Furai | by | Hades4u | ↑1 | ↓0 | Total Cost | 390,200 | CR | S2 | 900 | LEGENDARY"
+  },
+  "ROAD | GREAT GRIP | GREAT LAUNCH | 1998 NISSAN R390 (GT1)": {
+    "UNKNOWN_CLASS": "Road | Great Grip | Great Launch | 1998 Nissan R390 (GT1) | by | Hades4u | ↑1 | ↓0 | Total Cost | 1,053,100 | CR | S2 | 900 | BARN FIND"
+  },
+  "DIRT RACING | 1969 TOYOTA 2000GT": {
+    "UNKNOWN_CLASS": "Dirt Racing | 1969 Toyota 2000GT | by | Hades4u | ↑1 | ↓0 | Total Cost | 1,084,400 | CR | A | 700"
+  },
+  "CROSS-COUNTRY | 1997 MITSUBISHI MONTERO EVOLUTION": {
+    "UNKNOWN_CLASS": "Cross-Country | 1997 Mitsubishi Montero Evolution | by | Hades4u | ↑1 | ↓0 | Total Cost | 113,000 | CR | B | 600 | BARN FIND"
+  },
+  "SMALL AND SPEEDY A CLASS DIRT | 1984 PEUGEOT 205 TURBO 16": {
+    "UNKNOWN_CLASS": "Small and speedy A class Dirt | 1984 Peugeot 205 Turbo 16 | by | Hades4u | ↑1 | ↓0 | Total Cost | 334,450 | CR | A | 700 | BARN FIND"
+  },
+  "GREAT ACCELERATION, CROSS COUNTRY BEAST | 1970 GMC JIMMY": {
+    "UNKNOWN_CLASS": "Great Acceleration, Cross Country Beast | 1970 GMC Jimmy | by | Hades4u | ↑5 | ↓4 | Total Cost | 92,000 | CR | A | 700 | COMMON"
+  },
+  "D CLASS RALLY | 1997 MITSUBISHI MONTERO EVOLUTION": {
+    "UNKNOWN_CLASS": "D Class Rally | 1997 Mitsubishi Montero Evolution | by | taylors97 | ↑0 | ↓0 | Total Cost | 50,000 | CR | D | 400 | BARN FIND"
+  },
+  "A CLASS ROAD RACE | 1997 MASERATI GHIBLI CUP": {
+    "UNKNOWN_CLASS": "A Class Road Race | 1997 Maserati Ghibli Cup | by | taylors97 | ↑0 | ↓0 | Total Cost | 102,000 | CR | A | 700 | RARE"
+  },
+  "ROAD | 1997 LAMBORGHINI DIABLO SV": {
+    "UNKNOWN_CLASS": "Road | 1997 Lamborghini Diablo SV | by | Hades4u | ↑0 | ↓0 | Total Cost | 404,500 | CR | A | 700 | BARN FIND"
+  },
+  "DIRT | GREAT SPEED | 2019 TOYOTA TACOMA TRD PRO FORZA EDITION": {
+    "UNKNOWN_CLASS": "Dirt | Great Speed | 2019 Toyota Tacoma TRD Pro Forza Edition | by | Hades4u | ↑0 | ↓0 | Total Cost | 584,600 | CR | S2 | 900 | FORZA EDITION"
+  },
+  "DIRT | ALL AROUND | 1986 LANCIA DELTA S4": {
+    "UNKNOWN_CLASS": "Dirt | All Around | 1986 Lancia Delta S4 | by | Hades4u | ↑0 | ↓0 | Total Cost | 160,950 | CR | S1 | 800 | RARE"
+  },
+  "GREAT GRIP | EASY | ROAD | ALL AROUND | 2022 ACURA NSX TYPE S": {
+    "UNKNOWN_CLASS": "Great Grip | Easy | Road | All Around | 2022 Acura NSX Type S | by | Hades4u | ↑1 | ↓1 | Total Cost | 259,150 | CR | S1 | 800 | EPIC"
+  },
+  "CROSS COUNTRY | DIRT | GREAT SPEED | HARD | 1962 LINCOLN CONTINENTAL": {
+    "UNKNOWN_CLASS": "Cross Country | Dirt | Great Speed | Hard | 1962 Lincoln Continental | by | Hades4u | ↑0 | ↓0 | Total Cost | 215,450 | CR | A | 700 | BARN FIND"
+  },
+  "B CLASS DIRT PAO | 1989 NISSAN PAO": {
+    "UNKNOWN_CLASS": "B Class Dirt Pao | 1989 Nissan PAO | by | Hades4u | ↑0 | ↓0 | Total Cost | 76,350 | CR | B | 600 | BARN FIND"
   }
 }
