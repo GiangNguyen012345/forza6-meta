@@ -320,9 +320,13 @@
     "S1 900": "HẠNG META: CHƯA XÁC ĐỊNH | ĐỘNG CƠ: Tự chọn | THÔNG SỐ TUNE: Đang chờ AI cập nhật chi tiết...",
     "ENGINE_SWAPS_AVAILABLE": "Đang cập nhật dữ liệu Swap..."
   },
-  "BUICK REGAL GNX \n RETRO MUSCLE \n 454 C \n USA \n AUTOSHOW \n \n \n \n CADILLAC \n 2013 CADILLAC XTS LIMOUSINE \n MODERN SUPER SALOONS \n 381 D \n USA \n AUTOSHOW 1987": {
+  "BUICK REGAL GNX \n RETRO MUSCLE \n 454 C \n USA \n AUTOSHOW ": {
     "S1 900": "HẠNG META: CHƯA XÁC ĐỊNH | ĐỘNG CƠ: Tự chọn | THÔNG SỐ TUNE: Đang chờ AI cập nhật chi tiết...",
     "ENGINE_SWAPS_AVAILABLE": "5.9L V8 - Racing"
+  },
+  "CADILLAC \n 2013 CADILLAC XTS LIMOUSINE \n MODERN SUPER SALOONS \n 381 D \n USA \n AUTOSHOW 1987": {
+    "S1 900": "HẠNG META: CHƯA XÁC ĐỊNH | ĐỘNG CƠ: Tự chọn | THÔNG SỐ TUNE: Đang chờ AI cập nhật chi tiết...",
+    "ENGINE_SWAPS_AVAILABLE": "Hạng A700- Tốt nhất: V10 8.4L hoặc V12 6.5L | Hạng S1 800- Tốt nhất: V12 Phiên bản đua (Racing V12) "
   },
   "CADILLAC ATS-V \n MODERN MUSCLE \n 601 A \n USA \n AUTOSHOW 2016": {
     "S1 900": "HẠNG META: CHƯA XÁC ĐỊNH | ĐỘNG CƠ: Tự chọn | THÔNG SỐ TUNE: Đang chờ AI cập nhật chi tiết...",
